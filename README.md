@@ -8,8 +8,7 @@
 </p>
 
 <h1 align="center" style="margin-top: 0px;">Quiz Management System</h1>
-
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-wAEA3MQ4vjoPt4wkahpsvbhiE_Ng91DsZg1lT3Nt3bkaGI68QcIsyikiVLLI_W7gi9f7EQKguGABjmlBb2_xTdoGwDjA=w1920-h337" width="100%" height="100%">
+![Image Description](https://drive.google.com/file/d/1YObJtw2sDLR57DQx2otl_vOkpPRgiIg9/view?usp=sharing)
 
 ## Requirements
 
