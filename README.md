@@ -8,7 +8,8 @@
 </p>
 
 <h1 align="center" style="margin-top: 0px;">Quiz Management System</h1>
-![Image Description](https://drive.google.com/file/d/1YObJtw2sDLR57DQx2otl_vOkpPRgiIg9/view?usp=sharing)
+
+![GitHub Logo]([https://drive.google.com/your-image-link](https://drive.google.com/file/d/1YObJtw2sDLR57DQx2otl_vOkpPRgiIg9/view?usp=sharing))
 
 ## Requirements
 
